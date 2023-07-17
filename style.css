@@ -9,3 +9,8 @@ div.main {
   margin: auto;
   color: white;
 }
+div.footer p {
+  color: red;
+  text-align: center;
+  background-color: gold;
+}
