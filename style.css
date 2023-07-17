@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 }
-p{
-  color: red;
+
+div.main {
+  text-align: center;
+  background-color: green;
+  width: 50%;
+  margin: auto;
+  color: white;
 }
